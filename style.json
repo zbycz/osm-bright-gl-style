@@ -168,7 +168,7 @@
     {
       "id": "highway-motorway-construction",
       "type": "line",
-      "source": "maptiler_planet",
+      "source": "openmaptiles",
       "source-layer": "transportation",
       "minzoom": 5,
       "filter": [
